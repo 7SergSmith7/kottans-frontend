@@ -13,3 +13,5 @@ For tasks of Kottans Front-End course
 ![1.3 Screenshot](https://github.com/7SergSmith7/kottans-frontend/blob/main/Git%20and%20GitHub/learngitbranching%202.png)
 
 ## Linux CLI, HTTP
+
+![2.1 Screenshot](https://github.com/7SergSmith7/kottans-frontend/blob/main/Linux/Linux.png)
