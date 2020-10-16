@@ -24,14 +24,14 @@ For tasks of Kottans Front-End course
 
 ## Intro to HTML and CSS
 
-### Intro to HTML & CSS
+### 1. Intro to HTML & CSS
 
 ![4.1 Screenshot](https://github.com/7SergSmith7/kottans-frontend/blob/main/task_html_css_intro/Intro%20to%20HTML.png)
 
-### Learn HTML
+### 2. Learn HTML
 
 ![4.2 Screenshot](https://github.com/7SergSmith7/kottans-frontend/blob/main/task_html_css_intro/Learn%20HTML.png)
 
-### Learn CSS
+### 3. Learn CSS
 
 ![4.3 Screenshot](https://github.com/7SergSmith7/kottans-frontend/blob/main/task_html_css_intro/Learn%20CSS.png)
