@@ -35,3 +35,5 @@ For tasks of Kottans Front-End course
 ### 3. Learn CSS
 
 ![4.3 Screenshot](https://github.com/7SergSmith7/kottans-frontend/blob/main/task_html_css_intro/Learn%20CSS.png)
+
+## Responsive Web Design
