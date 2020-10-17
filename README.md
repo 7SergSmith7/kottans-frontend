@@ -37,3 +37,11 @@ For tasks of Kottans Front-End course
 ![4.3 Screenshot](https://github.com/7SergSmith7/kottans-frontend/blob/main/task_html_css_intro/Learn%20CSS.png)
 
 ## Responsive Web Design
+
+### 1. Responsive Web Design Fundamentals
+
+![5.1 Screenshot](https://github.com/7SergSmith7/kottans-frontend/blob/main/task_responsive_web_design/udacity%20responsive%20web.png)
+
+### 2. Flexbox Froggy
+
+![5.2 Screenshot](https://github.com/7SergSmith7/kottans-frontend/blob/main/task_responsive_web_design/flexbox%20froggy.png)
