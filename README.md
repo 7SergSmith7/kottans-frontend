@@ -47,3 +47,31 @@ For tasks of Kottans Front-End course
 ![5.2 Screenshot](https://github.com/7SergSmith7/kottans-frontend/blob/main/task_responsive_web_design/flexbox%20froggy.png)
 
 ## JavaScript Basics
+
+### 1. Intro to JS
+
+![6.1 Screenshot](https://github.com/7SergSmith7/kottans-frontend/blob/main/task_js_basics/udacity%20Intro%20to%20JS.png)
+
+### 2. Basic JavaScript
+
+![6.2 Screenshot](https://github.com/7SergSmith7/kottans-frontend/blob/main/task_js_basics/freeCodeCamp%20Basic%20JavaScript.png)
+
+### 3. ES6 Challenges
+
+![6.3 Screenshot](https://github.com/7SergSmith7/kottans-frontend/blob/main/task_js_basics/freeCodeCamp%20ES6.png)
+
+### 4. Basic Data Structures
+
+![6.4 Screenshot](https://github.com/7SergSmith7/kottans-frontend/blob/main/task_js_basics/freeCodeCamp%20Basic%20Data%20Structures.png)
+
+### 5. Basic Algorithm Scripting
+
+![6.5 Screenshot](https://github.com/7SergSmith7/kottans-frontend/blob/main/task_js_basics/freeCodeCamp%20Basic%20Algorithm%20Scripting.png)
+
+### 6. Functional Programming
+
+![6.6 Screenshot](https://github.com/7SergSmith7/kottans-frontend/blob/main/task_js_basics/freeCodeCamp%20Functional%20programming.png)
+
+### 7. Algorithm Scripting Challenges
+
+![6.7 Screenshot](https://github.com/7SergSmith7/kottans-frontend/blob/main/task_js_basics/freeCodeCamp%20Intermediate%20Algoritms.png)
