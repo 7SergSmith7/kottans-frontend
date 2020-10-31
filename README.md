@@ -45,3 +45,5 @@ For tasks of Kottans Front-End course
 ### 2. Flexbox Froggy
 
 ![5.2 Screenshot](https://github.com/7SergSmith7/kottans-frontend/blob/main/task_responsive_web_design/flexbox%20froggy.png)
+
+## JavaScript Basics
