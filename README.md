@@ -75,3 +75,13 @@ For tasks of Kottans Front-End course
 ### 7. Algorithm Scripting Challenges
 
 ![6.7 Screenshot](https://github.com/7SergSmith7/kottans-frontend/blob/main/task_js_basics/freeCodeCamp%20Intermediate%20Algoritms.png)
+
+## Object Oriented JS
+
+### 1. Object Oriented JS
+
+![7.1 Screenshot](https://github.com/7SergSmith7/kottans-frontend/blob/main/task_js_oop/udacity%20OOP%20JS.png)
+
+### 2. OOP JS Codewars
+
+![7.2 Screenshot](https://github.com/7SergSmith7/kottans-frontend/blob/main/task_js_oop/codewars.png)
