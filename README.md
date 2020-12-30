@@ -103,7 +103,7 @@ Learned about the EC6 syntax chips:
 - Destructuring
 - OOP principles (classes)
 - Spread operators
-and much more.
+- and much more.
 I learn the basics of algorithms and data structures, as well as with the basic principles of functional programming.
 
 ## Document Object Model 
